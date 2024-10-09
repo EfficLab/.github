@@ -1,11 +1,19 @@
-EfficLab is a technical media that aims to refine the world with modern Internet technologies.
+# EfficLab
 
-Please follow our social media channels below for further information:
+You can visit [https://efficlab.com](https://efficlab.com) for more information.
+
+### Who are we?
+
+We aim to be the biggest and the most professional Chinese channel of computer technology.
+
+Please contact service@efficlab.com for any business cooperation.
+
+### Where can you find us?
 
 | Platform    | Link |
 | -------- | ------- |
-| Bilibili | https://space.bilibili.com/5953240     |
-| Douyin    | https://v.douyin.com/iR5FGUXE/  |
-| YouTube  | https://www.youtube.com/channel/UCpN3prDRM6G-3MWMZvo_jXQ    |
-| Twitter    | https://twitter.com/efficlab  |
+| *YouTube*  | https://www.youtube.com/@efficlab   |
+| *Bilibili* | https://space.bilibili.com/5953240     |
+| *Douyin*    | https://v.douyin.com/iR5FGUXE/  |
+| *Twitter*    | https://twitter.com/efficlab  |
 
